@@ -1,0 +1,4 @@
+src/data/database.ini
+venv/
+*.pyc
+skillio_backup.sql
